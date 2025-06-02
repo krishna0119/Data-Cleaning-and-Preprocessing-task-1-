@@ -1,4 +1,3 @@
-# Data-Cleaning-and-Preprocessing-task-1-
 //Overview
 This project focuses on cleaning and preprocessing a raw vehicle dataset containing various attributes like make, model, condition, mileage, price, and more. The objective is to prepare the dataset for further analysis or modeling by handling missing values, correcting data types, standardizing formats, and removing inconsistencies.
 
@@ -43,15 +42,15 @@ Filled saledate nulls with the most frequent date.
 
 
 /////////
-- Standardized column names to lowercase with underscores.
+✅ Standardized column names to lowercase with underscores.
 
-- Converted date fields to datetime format.
+✅ Converted date fields to datetime format.
 
-- Cleaned text fields (trimmed spaces, consistent casing).
+✅ Cleaned text fields (trimmed spaces, consistent casing).
 
-- Ensured proper data types for numerical and categorical columns.
+✅ Ensured proper data types for numerical and categorical columns.
 
-///Files Included
+📁 Files Included
 Task_1.ipynb: Jupyter notebook with all preprocessing code and explanations.
 
 cleaned_dataset_final.csv: The cleaned and processed dataset ready for use.
