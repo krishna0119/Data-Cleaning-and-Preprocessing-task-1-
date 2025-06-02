@@ -42,15 +42,15 @@ Filled saledate nulls with the most frequent date.
 
 
 /////////
-✅ Standardized column names to lowercase with underscores.
+- Standardized column names to lowercase with underscores.
 
-✅ Converted date fields to datetime format.
+- Converted date fields to datetime format.
 
-✅ Cleaned text fields (trimmed spaces, consistent casing).
+- Cleaned text fields (trimmed spaces, consistent casing).
 
-✅ Ensured proper data types for numerical and categorical columns.
+- Ensured proper data types for numerical and categorical columns.
 
-📁 Files Included
+///Files Included
 Task_1.ipynb: Jupyter notebook with all preprocessing code and explanations.
 
 cleaned_dataset_final.csv: The cleaned and processed dataset ready for use.
@@ -64,5 +64,5 @@ jupyter notebook Task_1.ipynb
 
 Make sure your input CSV is placed in the same directory or update the path accordingly in the code.
 
-📫 Contact
+//Contact
 If you have any questions or suggestions, connect with me.
