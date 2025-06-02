@@ -1,7 +1,7 @@
-//Overview
+//Overview//
 This project focuses on cleaning and preprocessing a raw vehicle dataset containing various attributes like make, model, condition, mileage, price, and more. The objective is to prepare the dataset for further analysis or modeling by handling missing values, correcting data types, standardizing formats, and removing inconsistencies.
 
-//Tools Used
+//Tools Used//
 -Python
 
 -Pandas
@@ -10,24 +10,24 @@ This project focuses on cleaning and preprocessing a raw vehicle dataset contain
 
 -CSV format data files
 
-//Dataset Description
+//Dataset Description//
 Column	:Description
-year	:The manufacturing year of the vehicle.
-make	:The brand or manufacturer of the vehicle.
-model	:The specific model of the vehicle.
-trim	:Additional designation for the vehicle model.
-body	:The body type of the vehicle (e.g., SUV, Sedan).
-transmission	:The type of transmission in the vehicle (e.g., automatic).
-vin	:Vehicle Identification Number, a unique code for each vehicle.
-state	:The state where the vehicle is registered.
-condition	:Condition of the vehicle, possibly rated on a scale.
-odometer	:The mileage or distance traveled by the vehicle.
-color	:Exterior color of the vehicle.
-interior	:Interior color of the vehicle.
-seller	Name of the vehicle seller or dealership.
-mmr	:Market value estimate of the vehicle.
-sellingprice	:Actual sale price of the vehicle.
-saledate	:Date of sale, originally in unstructured string format.
+-year	:The manufacturing year of the vehicle.
+-make	:The brand or manufacturer of the vehicle.
+-model	:The specific model of the vehicle.
+-trim	:Additional designation for the vehicle model.
+-body	:The body type of the vehicle (e.g., SUV, Sedan).
+-transmission	:The type of transmission in the vehicle (e.g., automatic).
+-vin	:Vehicle Identification Number, a unique code for each vehicle.
+-state	:The state where the vehicle is registered.
+-condition	:Condition of the vehicle, possibly rated on a scale.
+-odometer	:The mileage or distance traveled by the vehicle.
+-color	:Exterior color of the vehicle.
+-interior	:Interior color of the vehicle.
+-seller	Name of the vehicle seller or dealership.
+-mmr	:Market value estimate of the vehicle.
+-sellingprice	:Actual sale price of the vehicle.
+-saledate	:Date of sale, originally in unstructured string format.
 
 //Cleaning and Preprocessing Steps
 - Removed duplicate rows.
